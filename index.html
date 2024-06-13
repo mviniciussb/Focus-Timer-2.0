@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/bell-duotone.svg" type="image/x-svg">
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" type="module" defer></script>
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <title>Focus Timer 2.0 - Pomodoro</title>
+</head>
+
+<body>
+    <div id="app">
+
+        <div id="toggleMode">
+            <i class="ph-bold ph-sun hiden"></i>
+            <i class="ph-bold ph-moon"></i>
+            <span class="sr-only">Ativar e desativar dark mode</span>
+        </div>
+
+        <section>
+
+            <div id="timer">
+                <div>
+                    <span id="minutes">00</span>
+                    <span>:</span>
+                    <span id="seconds">00</span>
+                </div>
+
+                <div id="controls">
+                    <button data-action="play" class="ph-bold ph-play-circle">
+                        <span class="sr-only">Iniciar o contador</span>
+                    </button>
+
+                    <button data-action="reset" class="ph-bold ph-stop-circle">
+                        <span class="sr-only">Parar o contador</span>
+                    </button>
+
+                    <button data-action="addTime" class="ph-bold ph-plus-circle">
+                        <span class="sr-only">Adicionar 5 minutos ao contador</span>
+                    </button>
+
+                    <button data-action="subTime" class="ph-bold ph-minus-circle">
+                        <span class="sr-only">Diminuir 5 minutos do contador</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="musicPlayer">
+                <button data-action="plantButton" class="ph ph-plant plantButton">
+                    <span class="sr-only">Som de floresta</span>
+                </button>
+
+                <button data-action="cloudButton" class="ph ph-cloud-snow cloudButton">
+                    <span class="sr-only">Som de chuva</span>
+                </button>
+
+                <button data-action="coffeeButton" class="ph ph-coffee coffeeButton">
+                    <span class="sr-only">Som de pessoas em uma cafeteria</span>
+                </button>
+
+                <button data-action="campfireButton" class="ph ph-campfire campfireButton">
+                    <span class="sr-only">Som de fogo em uma lareira</span>
+                </button>
+
+            </div>
+
+        </section>
+    </div>
+</body>
+
+</html>
