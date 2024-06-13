@@ -1,4 +1,4 @@
-FocusTimer2.0
+<h1>FocusTimer2.0</h1>
 <br>
 <p>Aplicativo criado com o intuito de contar regressivamente de acordo com o valor selecionado pelo usuário. Funcionalidade de audios para o fundo, que podem ser ativadas simultaneamente, assim como botões para adicionar e retirar 5 minutos do contador. Criado com HTML, CSS e JavaScript.</p>
 
