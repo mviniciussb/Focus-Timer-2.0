@@ -1,6 +1,7 @@
 # 5-FocusTimer2.0
  
-![image](https://github.com/mviniciussb/Focus-Timer-2.0/assets/108037526/d27ec6ba-2ea7-4fb1-8d83-9af315fc9561)
+![image](https://github.com/mviniciussb/Focus-Timer-2.0/assets/108037526/024ffd88-f58d-472d-a476-09b16f850478)
+
 ![image](https://github.com/mviniciussb/Focus-Timer-2.0/assets/108037526/0427a866-db4e-4943-9fdb-74bd1078ebde)
 
 
