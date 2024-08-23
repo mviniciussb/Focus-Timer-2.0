@@ -11,3 +11,5 @@ Este é um contador Pomodoro desenvolvido para auxiliar nos estudos e na gestão
 
  - Problemas Resolvidos
 Este contador Pomodoro foi desenvolvido para atender à necessidade de uma ferramenta flexível e eficiente para gerenciamento de tempo durante os estudos. A inclusão de ajustes de tempo e opções de áudio relaxante visa melhorar a produtividade e proporcionar um ambiente mais agradável para o usuário, ajudando a manter o foco e reduzir o estresse.
+
+![image](https://github.com/mviniciussb/Focus-Timer-2.0/assets/108037526/024ffd88-f58d-472d-a476-09b16f850478)
